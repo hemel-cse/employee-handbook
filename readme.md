@@ -21,7 +21,13 @@ Fun stuff:
 
 Remote work: remote office with 3+ employees within 3.5 hours by plane with fiber link and always-on video is fine; permanent off-site work from home: NO.  A-la-cart remote work - NO (use PTO).  IFF hardship, distraction-free-envorimnet, and prior really good success, then up to to days/week, perminant schedule, Tues/Wed only, always on video,is okay.  
 
-Passwords
+Passwords policy
+
+Security policy
+
+IT policy
+
+maternatiy leave section - seems overly coplicated and draconean.  May want to simplyfy the crap out of it. 
 
 ****
 
@@ -384,8 +390,6 @@ If the disability leave is needed due to a work-related injury, all matters rela
 ## Personal Leave
 If a regular full-time or part-time employee is temporarily unable to work for compelling personal reasons other than those described in Saleae, Inc.’s other leave policies, the employee may apply, in writing, for an unpaid leave of absence for up to thirty (30) days.  Such applications are evaluated on an individual basis, taking into account the total circumstances of the request, including anticipated workload requirements and staffing considerations during the proposed period of absence.  Saleae, Inc. reserves the right to refuse a request for an unpaid personal leave of absence at its sole discretion.  Employees who request a personal leave of absence should make the request as soon as they become aware of the need for leave.
 
-Employees must use any accrued PTO at the beginning of any personal leave of absence.  
-
 For those employees who have health insurance benefits, Saleae, Inc. will continue to provide such for the full period of the approved personal leave, to be paid for by the employee.  Benefit accruals, such as PTO, or holiday benefits and any stock option vesting, will be suspended during the unpaid portion of leave and will resume upon return to active employment.
 
 When a personal leave ends, Saleae, Inc. will endeavor to offer the employee the same position held prior to the leave, if it is available, or a similar available position for which the employee is qualified.  However, Saleae, Inc. does not guarantee that the employee will be reinstated upon expiration of personal leave.  If an employee fails to report to work promptly at the expiration of the approved leave period, Saleae, Inc. may consider the employee to have voluntarily resigned employment.
@@ -407,7 +411,7 @@ The Company will provide employees time off to serve, as required by law, on a j
 
 Employees will be granted a paid leave of absence of up to ten (10) business days per year for the purpose of fulfilling jury duty. Any jury duty that extends beyond 10 business days per year will be unpaid.  However, exempt employees who work any portion of a workweek in which they also serve on jury duty will receive their full salary for that workweek.  Employees may elect to substitute accrued PTO during any unpaid leave due to jury duty.
 
-Employees are required to provide reasonable advance notice of the need for leave due to jury duty. Employees also are expected to report to work each day or portion of a day they are not performing jury/witness duty. The Company reserves the right to request that the employee furnish written verification from the court as proof that the employee served jury duty. Failure to provide written verification is grounds for disciplinary action.
+Employees are required to provide reasonable advance notice of the need for leave due to jury duty. Employees also are expected to report to work each day or portion of a day they are not performing jury/witness duty. The Company reserves the right to request that the employee furnish written verification from the court as proof that the employee served jury duty. 
 
 ## Witness Leave
 The Company will provide employees with time off to appear in court or other judicial proceedings as a witness to comply with a valid subpoena or other court order. Time off for these purposes will be unpaid. However, employees may elect to substitute accrued PTO during any unpaid leave due to witness leave.
@@ -419,7 +423,7 @@ Employees will be granted time off without pay for up to 40 hours per calendar y
 
 Employees wishing to take time off under this section must provide their supervisors with reasonable notice of the planned absence. If both parents of a child are employed by the Company at the same worksite, the request for time off under this section will be granted to the first parent to provide notice of the need for time off. The request from the second parent will be accommodated if possible.
 
-The Company reserves the right to request that the employee furnish written verification from the school or daycare facility as proof that the employee participated in school or daycare activities on the specific date and at a particular time. Failure to provide written verification is grounds for disciplinary action.
+The Company reserves the right to request that the employee furnish written verification from the school or daycare facility as proof that the employee participated in school or daycare activities on the specific date and at a particular time.
 
 ## Volunteer Firefighter, Reserve Peace Officer, and Emergency Rescue Personnel
 Employees will be granted time off on an unpaid basis to perform emergency duties as a volunteer firefighter, reserve peace officer, or emergency rescue personnel. Employees who are volunteer firefighters also are eligible for unpaid leave of up to 14 days per calendar year for fire or law enforcement training.  Employees may substitute accrued PTO for any unpaid portion of leave to perform such emergency duties or training.
@@ -517,7 +521,7 @@ If sexual harassment occurs:
 -	To report sexual harassment, an employee is to contact their supervisor or their Human Resources Department. Sexual harassment or retaliation should be reported immediately.  An employee must report such activities even though they were not the target of the harassment or be subject to disciplinary action.  This includes those who merely observe such actions.
 -	An impartial, thorough and timely investigation will be conducted by a qualified member of management or the Human Resource Department and appropriate action will be taken including a timely closure.  The Company will promptly investigate all reported incidents of sexual harassment or retaliation, and the investigation will be kept as confidential as possible.
 
-All allegations of harassment or retaliation will be taken seriously and will be promptly investigated, that investigation will remain as confidential as possible.  Appropriate remedial, corrective action and resolutions will be taken as warranted.  Any individual affiliated with the Company who, after the investigation, is determined to have engaged in any form of discrimination, harassment, or retaliation in violation of this policy will be subject to appropriate disciplinary action, up to and including termination.  The company will document and track all information and evidence collected in the fact finding investigative process.
+All allegations of harassment or retaliation will be taken seriously and will be promptly investigated, and that investigation will remain as confidential as possible.  Appropriate remedial, corrective action and resolutions will be taken as warranted.  Any individual affiliated with the Company who, after the investigation, is determined to have engaged in any form of discrimination, harassment, or retaliation in violation of this policy will be subject to appropriate disciplinary action, up to and including termination.  The company will document and track all information and evidence collected in the fact finding investigative process.
 
 All members of management and supervisor must report any complaints of misconduct to a designated company representative, such as the human resources manager, President, owner, etc. so the company can investigate the issue immediately.
 
