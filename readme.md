@@ -21,7 +21,7 @@ Fun stuff:
 
 Remote work: remote office with 3+ employees within 3.5 hours by plane with fiber link and always-on video is fine; permanent off-site work from home: NO.  A-la-cart remote work - NO (use PTO).  IFF hardship, distraction-free-envorimnet, and prior really good success, then up to to days/week, perminant schedule, Tues/Wed only, always on video,is okay.  
 
-
+Passwords
 
 ****
 
@@ -107,6 +107,7 @@ Additionally, to determine eligibility for various benefits, employees of the Co
 
 ## Access to Personnel Files
 Saleae, Inc. maintains a personnel file for each employee.  Employees have the right to inspect their personnel files at reasonable times and upon reasonable notice. In addition, employees have the right to request copies of all employment-related documents that they have signed. An employee may inspect only his or her own personnel file and only in the presence of a Human Resources representative.  Personnel files are the property of the Company and may not be removed from the Company’s premises without written authorization from Human Resources.
+
 ## Employment Reference Checks
 It is the policy of Saleae, Inc. to check the employment references of all applicants.
 
@@ -133,8 +134,9 @@ Saleae, Inc. will generally schedule exit interviews at the time of employment t
 # COMPENSATION & BENEFITS
 
 ## Holidays
-Saleae, Inc. provides paid holiday time off to eligible employees on the eleven (11) assigned holidays listed below:
+Saleae, Inc. provides paid holiday time off to eligible employees on the holidays listed below:
 - New Year’s Day
+- President's Day
 - Memorial Day
 - Independence Day
 - Labor Day
@@ -145,6 +147,7 @@ Saleae, Inc. provides paid holiday time off to eligible employees on the eleven 
 - New Year’s Eve
 
 Normally, a recognized holiday that falls on a Saturday, may at the Company’s discretion, be observed on the preceding Friday.  A recognized holiday that falls on a Sunday, may at the Company’s discretion, be observed on the following Monday.  In the event Saleae, Inc. elects to grant additional Company holidays, Company Management or the Human Resources Department will provide written notification of such to all eligible employees.
+
 Regular full-time employees and regular part-time employees regularly scheduled to work at least thirty (30) hours per week are eligible for holiday pay.  Temporary employees and employees regularly scheduled to work fewer than thirty (30) hours per week are not eligible for holiday pay.  Employees are not eligible for holiday benefits that accrue while on an unpaid leave of absence.  
 
 Eligible full-time employees will receive time off with pay at their normal base rate for each Company-observed holiday. Eligible part-time employees will receive pro-rated holiday pay based on their regularly scheduled hours.  Part-time employees not scheduled to work on a holiday are not eligible for holiday pay.
@@ -156,9 +159,11 @@ In addition to the recognized holidays listed above, eligible employees who star
 ## Vacation
 All regular full-time employees and regular part-time employees regularly scheduled to work at least thirty (30) hours per week are eligible for vacation benefits.  Temporary employees and employees who are regularly scheduled to work fewer than thirty (30) hours per week are not eligible for vacation benefits.
 
-Eligible employees accrue vacation on a monthly basis starting on the date of hire, and they can request use of vacation after it has been accrued.  Full-time employees accrue up to fifteen (15) days of vacation per year.  Eligible part-time employees accrue vacation on a pro-rated basis based on the number of their regularly scheduled hours of work.   
+Eligible employees accrue vacation on a monthly basis starting on the date of hire, and they can request use of vacation after it has been accrued.  **Full-time employees accrue up to twenty (20) days of vacation per year.**  Eligible part-time employees accrue vacation on a pro-rated basis based on the number of their regularly scheduled hours of work.   
 
-Employees may accrue up to a total amount of unused vacation until it reaches a “cap” equal to 160 hours (20 days), at that time further accrual will stop.  When the employee uses vacation and brings the accrued amount below the cap, accrual will begin again until the cap is reached.
+**There is no "cap" on the amount of unused vacation that may be accrued.**
+
+**Employees may trade in unused vacation for the equivilent wage, up to a limit of 50% of the total accued vacation.**
 
 No vacation accrues during an unpaid leave of absence or while on disability salary continuation. Vacation accruals recommence when the employee returns to work.
 
@@ -171,7 +176,7 @@ Vacation may be used to supplement any payments that an employee is eligible to 
 Upon termination of employment, employees will be paid for any accrued, unused vacation at the employee's base rate of pay at the time of his or her termination.
 
 ## Sick Leave
-Employees will accrue one hour of sick time for every 30 hours worked (including overtime hours). Employees who are exempt administrative, executive, or professional employees accrue sick time based on the employee's normal work week or a 40-hour work week, whichever is less.  Employees may begin using any accrued sick leave on their 90th day of employment, provided they have worked in the state of California for 30 or more days.
+Employees will accrue one hour of sick time for every 30 hours worked (including overtime hours). Employees who are exempt - administrative, executive, or professional employees - accrue sick time based on the employee's normal work week or a 40-hour work week, whichever is less.  Employees may begin using any accrued sick leave on their 90th day of employment, provided they have worked in the state of California for 30 or more days.
 
 Sick leave will continue to accrue until you reach a cap of 72 hours (or nine days) in each year of employment.  The sick leave will be "compensated at the same wage as the employee normally earns during regular work hours.”    
 
@@ -227,7 +232,7 @@ The law requires that Saleae, Inc. make certain deductions from every employee�
 Eligible employees may voluntarily authorize deductions from their paychecks to cover the costs of participation in certain benefits programs, such as health insurance coverage.  Employees who want to change the number of their exemptions for federal or state income tax withholding purposes should notify the Human Resources Department.
 
 ## Other Benefits
-Upon completion of a thirty (30) day waiting period the Company provides benefits for eligible employees, as described in general terms below. The terms on which benefits are made available to employees are set forth in the governing plan documents. In the event of a conflict between the following descriptions and the terms of the plan documents, the plan documents will control. This handbook is not a plan document and does not create any enforceable rights with respect to benefits or otherwise. The Company reserves the right to eliminate or modify any of its benefits at any time without prior notice.
+Upon completion of a thirty (30) day waiting period, the Company provides benefits for eligible employees, as described in general terms below. The terms on which benefits are made available to employees are set forth in the governing plan documents. In the event of a conflict between the following descriptions and the terms of the plan documents, the plan documents will control. This handbook is not a plan document and does not create any enforceable rights with respect to benefits or otherwise. The Company reserves the right to eliminate or modify any of its benefits at any time without prior notice.
 
 ### Worker’s Compensation Insurance
 Saleae, Inc. provides insurance at no cost to employees for any work-related injuries or illness. Subject to applicable legal requirements, workers’ compensation insurance generally provides benefits after a short waiting period.
@@ -235,7 +240,9 @@ Saleae, Inc. provides insurance at no cost to employees for any work-related inj
 Employees who sustain work-related injuries or illnesses should inform their manager immediately. This will enable an eligible employee to qualify for coverage as quickly as possible.
 
 ### Health Insurance
-Saleae, Inc.’s health insurance plan provides all regular full-time employees and regular part-time employees who are regularly scheduled to work at least thirty (30) hours per week, and their dependents access to medical, dental, and vision insurance benefits.  Employees are responsible for the cost of twenty-five percent (25%) of their own insurance premium and fifty percent (50%) of their dependents’ insurance premium.  Qualified employees are eligible for medical, dental, and vision insurance coverage starting the first day of the month following their thirty (30) day waiting period.  Dependents may be added within thirty (30) days of a birth, marriage or adoption or at the annual open enrollment.  
+Saleae, Inc.’s health insurance plan provides all regular full-time employees and regular part-time employees who are regularly scheduled to work at least thirty (30) hours per week, and their dependents access to medical, dental, and vision insurance benefits. Qualified employees are eligible for medical, dental, and vision insurance coverage starting the first day of the month following their thirty (30) day waiting period.  Dependents may be added within thirty (30) days of a birth, marriage or adoption or at the annual open enrollment.  
+
+Employees are responsible for the cost of twenty-five percent (25%) of their own insurance premium and fifty percent (50%) of their dependents’ insurance premium. (TBD)
 
 ### Benefits Continuation (Cal-COBRA)
 The California Continuation Benefits Replacement Act of 1997 (Cal-COBRA) requires insurance carriers and HMOs to provide COBRA-like coverage for employees of smaller companies. Under Cal-COBRA, the group health plan carrier must offer each qualified beneficiary (the employee and any covered dependents) who would otherwise lose coverage under the plan as a result of a qualifying event an opportunity to continue their insurance coverage. A qualifying event is defined as termination of employment or reduction in hours of employment, death of covered employee, divorce or legal separation, a dependent child ceases to be dependent, for dependents only, eligibility of the covered employee for Medicare, or an employer’s bankruptcy.  An employee has opportunity to choose to continue coverage directly through the insurance carrier. The employer notifies both the employee experiencing the qualifying event and the insurance carrier. Provided the employee elects to continue coverage, the insurance carrier then assumes the responsibility of coverage instead of the employer.
@@ -246,7 +253,9 @@ At this time, Saleae, Inc. does not provide short-term or long-term disability p
 However, state sponsored programs provide for temporary disability benefits for employees unable to work because of disability due to a non-occupational accident or illness. These programs are financed through deductions from each employee's taxable earnings and through employer contributions as established by law in each particular state. Benefits are not automatic. Employees must complete the required form to receive benefits.
 
 ### 401(k) Savings Plan
-Saleae, Inc. has established a 401(k) savings plan (traditional and Roth) for all regular full-time and part-time employees.  To be eligible to participate in the 401(k) savings plan, employees must be employed by Saleae, Inc. for three (3) months and be twenty-one (21) years of age or older.  Once the third month of employment at Saleae, Inc. is complete, employees may elect to join the 401(k) savings plan at any time.  The 401(k) savings plan allows employees to elect how much of their salary they want to contribute, up to the IRS maximum allowed amount, and direct the investment of their plan account, so they can tailor their own retirement package to meet their individual needs. Saleae, Inc. matches up to 4% of the gross salary wages.
+Saleae, Inc. has established a 401(k) savings plan (traditional and Roth) for all regular full-time and part-time employees.  To be eligible to participate in the 401(k) savings plan, employees must be employed by Saleae, Inc. for three (3) months and be twenty-one (21) years of age or older.  Once the third month of employment at Saleae, Inc. is complete, employees may elect to join the 401(k) savings plan at any time.  The 401(k) savings plan allows employees to elect how much of their salary they want to contribute, up to the IRS maximum allowed amount, and direct the investment of their plan account, so they can tailor their own retirement package to meet their individual needs. 
+
+At this time, Saleae, Inc. does not match employee 401K contributions.
 
 ### Flexible Spending Account
 Saleae, Inc. provides a Flexible Spending Account (FSA) program that allows regular full-time employees and regular part-time employees who are regularly scheduled to work at least thirty (30) hours per week to have pre-tax dollars deducted from their salaries to pay for eligible out-of-pocket expenses.  The pre-tax contributions made to the FSA can be used to pay for certain non-reimbursed, IRS qualified, health care expenses and dependent care expenses during the plan year.  Through the FSA program, employees can reduce their taxable income without reducing their real income, so that they can keep more of the money they earn.
@@ -275,31 +284,42 @@ All visitors should enter Saleae, Inc. at the reception area.  Authorized visito
 ## Technology Use and Security
 Saleae, Inc. provides its employees with access to business systems (including but not limited to telephones, computers, software, networks, voicemail, e-mail, Company intranet, external electronic bulletin boards, wire services, on-line services, the Internet and the World Wide Web).  These systems are for use in carrying out the Company’s business.  Although Saleae, Inc. does not prohibit the use of the Company’s electronic, e-mail and voicemail systems for personal use, employees must keep in mind that the Company’s resources are being used for this service.  Employees need to demonstrate a sense of responsibility and may not abuse the privilege.  The following guidelines govern the proper use of those electronic systems and services, and set forth the Company’s policies with regard to access to, use and disclosure of data and electronic mail or voice messages sent or received.  
 
-E-mail and Voicemail Guidelines.
+### E-mail and Voicemail Guidelines
+Users should be aware of the following: 
 
-Users should be aware of the following: (a) the use of the e-mail and voicemail systems is for the conduct of business and Company -sanctioned and supported programs and activities.  Use of these systems for personal activities should be kept to a minimum; (b) common sense, courtesy and professionalism should be employed when using e-mail.  Users should not send (or forward) anything that others might find offensive.  Among material considered offensive are any messages that contain sexual implications or unwelcome personal invitations, racial slurs, gender-specific comments, or any other comments that offensively address someone’s age, sexual orientation, religious or political beliefs, national origin, disability, or any other protected characteristic; (c) because of its public nature, e-mail may be inappropriate for many types of confidential documents unless encryption technology is used.  There are significant confidentiality problems if material communicated by e-mail is copied, re-routed, diverted or wrongly addressed.  Also, commercially sensitive and “inside” information can create significant problems if e-mailed without additional protection.  
+(a) the use of the e-mail and voicemail systems is for the conduct of business and Company -sanctioned and supported programs and activities.  Use of these systems for personal activities should be kept to a minimum; 
 
-Employees may not send or receive copyrighted materials, trade secret, confidential or proprietary information, or similar materials outside of the Company without prior authorization from their manager.  Employees must take available measures to protect confidentiality; (d) anyone obtaining electronic access to other companies’ or individuals’ materials must respect all copyrights and may not copy, retrieve, modify or forward copyrighted materials except as permitted by the copyright owner or a single copy for reference use only; (e) any messages or information sent by an employee to one or more individuals via an electronic network (e.g. bulletin board, on-line service, or Internet) may constitute statements identifiable and attributable to the Company, and should be treated as such.  While some users include personal “disclaimers” in electronic messages, it should be noted that there would still be a connection with the Company, and the statement might still be legally attributed to the Saleae, Inc.; (f) employees may not use the e-mail or voicemail systems to solicit or persuade participation in, commercial ventures, religious or political causes, outside organizations, or other non-job related activities.
+(b) common sense, courtesy and professionalism should be employed when using e-mail.  Users should not send (or forward) anything that others might find offensive.  Among material considered offensive are any messages that contain sexual implications or unwelcome personal invitations, racial slurs, gender-specific comments, or any other comments that offensively address someone’s age, sexual orientation, religious or political beliefs, national origin, disability, or any other protected characteristic; 
 
-Monitoring.
+(c) because of its public nature, e-mail may be inappropriate for many types of confidential documents unless encryption technology is used.  There are significant confidentiality problems if material communicated by e-mail is copied, re-routed, diverted or wrongly addressed.  Also, commercially sensitive and “inside” information can create significant problems if e-mailed without additional protection. Employees may not send or receive copyrighted materials, trade secret, confidential or proprietary information, or similar materials outside of the Company without prior authorization from their manager.  Employees must take available measures to protect confidentiality; 
 
-Saleae, Inc.’s e-mail, voicemail and computer systems are Company property.  All messages, documents and files created, sent or received on these systems are and remain the property of the Company and are not the private property of any employee.  Saleae, Inc. reserves the right to review, audit, intercept, access and disclose all documents and files on its computer systems and all messages created, sent or received over its e-mail and voicemail systems.  The contents of e-mail, voicemail, and computer files, properly obtained for legitimate business purposes, may be disclosed by the Company without the permission of the employee.  The confidentiality of any message should not be assumed.  Even when a message is erased, it is still possible to retrieve and review that message on both e-mail and voicemail systems.  Further, the use of passwords for security does not guarantee confidentiality, as the Company can obtain access to all passwords.  Upon request, all passwords must be disclosed to the Company or they will be made invalid and cannot be used.  Notwithstanding the Company’s right to retrieve and read any e-mail or voicemail messages, such messages should be treated as confidential by other employees and accessed only by the recipient.  Unless otherwise authorized by management, employees are not authorized to retrieve or read any e-mail or voicemail messages that are not sent to them.  The Company does not have any obligation to provide users with copies of personal messages (in either paper or electronic media).
+(d) anyone obtaining electronic access to other companies’ or individuals’ materials must respect all copyrights and may not copy, retrieve, modify or forward copyrighted materials except as permitted by the copyright owner or a single copy for reference use only; 
 
-Ownership of Data.
+(e) any messages or information sent by an employee to one or more individuals via an electronic network (e.g. bulletin board, on-line service, or Internet) may constitute statements identifiable and attributable to the Company, and should be treated as such.  While some users include personal “disclaimers” in electronic messages, it should be noted that there would still be a connection with the Company, and the statement might still be legally attributed to the Saleae, Inc.; 
+
+(f) employees may not use the e-mail or voicemail systems to solicit or persuade participation in commercial ventures, religious or political causes, outside organizations, or other non-job related activities.
+
+### Monitoring
+
+Saleae, Inc.’s e-mail, voicemail and computer systems are Company property.  All messages, documents and files created, sent or received on these systems are and remain the property of the Company and are not the private property of any employee.  Saleae, Inc. reserves the right to review, audit, intercept, access and disclose all documents and files on its computer systems and all messages created, sent or received over its e-mail and voicemail systems.  The contents of e-mail, voicemail, and computer files, properly obtained for legitimate business purposes, may be disclosed by the Company without the permission of the employee.  The confidentiality of any message should not be assumed.  Even when a message is erased, it is still possible to retrieve and review that message on both e-mail and voicemail systems.  
+
+Notwithstanding the Company’s right to retrieve and read any e-mail or voicemail messages, such messages should be treated as confidential by other employees and accessed only by the recipient.  Unless otherwise authorized by management, employees are not authorized to retrieve or read any e-mail or voicemail messages that are not sent to them.  The Company does not have any obligation to provide users with copies of personal messages (in either paper or electronic media).
+
+### Ownership of Data
 
 The computer system, as well as the data and programs stored on the system, are Saleae, Inc. property, except for programs which the Company has obtained a license to use.  The Company retains ownership of all of its files, paper or electronic.  No files, electronic or otherwise, may be removed from the Company without authorization.  The Company reserves the right to access all files and data that are created or stored on its computer system, on an employee’s local personal computer, or stored in an employee’s hardcopy files.  This includes personal computers and electronic storage media (disks, removable hard drives, etc.) used at home or off-site for work-related purposes.  The Company will access files for business purposes, including but not limited to:  Retrieving missing business data in an employee’s absence; investigating possible employee theft or espionage; ensuring that Company systems are not used to violate Company policy, including to transmit discriminatory, offensive or illegal messages; ensuring that unlicensed or illegal software is not installed on any computer assigned to an employee; ensuring that Company systems are not used for the benefit of or to develop business other than the Company’s business.
 
-Use of Saleae, Inc.’s Computer System.
+### Use of Saleae, Inc.’s Computer System
 
 In addition, all employees must comply with the following guidelines regarding use of the Company’s computer system:
 
 - Users must comply with all software licenses, copyrights, and all other state and federal laws governing intellectual property.
 - Fraudulent, harassing, embarrassing, indecent, profane, obscene, intimidating, or other such material may not be displayed on or stored in the Company’s computers.  Users encountering or receiving such material should immediately report the incident to their manager.
 -	Saleae, Inc. configures, installs and maintains the computer systems it provides to employees.  Users may not modify or attempt to modify the computer systems (including, without limitation, installing, deleting or modifying hardware or software on individual computers or the network) without first receiving explicit authorization from Company management.
--	Users are responsible for safeguarding their passwords for the system.  Individual passwords should not be printed, stored online, or given to others.  Users are responsible for all transactions made using their passwords.
+-	Users are responsible for safeguarding their passwords for the system. 
 -	A user’s ability to connect to other systems through the network does not imply a right to connect to those systems unless specifically authorized by the operators of those systems.
 
-Guidelines for Responsible Internet Use.  	
+### Guidelines for Responsible Internet Use  	
 
 Employees are not permitted to publish or access inappropriate material on the Web.
 
@@ -317,13 +337,9 @@ Saleae, Inc. encourages employees to bring their disputes or differences with ot
 ## Breastfeeding Policy
 In recognition of the well documented health advantages of breastfeeding for infants and mothers, Saleae, Inc. will provide, upon request, a supportive environment to enable breastfeeding employees to express their milk during work hours.
 
-Saleae, Inc. subscribes to the following worksite support policy. This policy shall be communicated to all current employees and included in new employee orientation training.
-
-Breastfeeding employees who choose to continue providing their milk for their infants after returning to work shall receive upon request to their supervisor:
-
 Milk Expression Breaks: Breastfeeding employees are allowed to breastfeed or express milk during work hours using their normal breaks and meal times. For time that may be needed beyond the usual break times, employees may use personal leave or may make up the time as negotiated with their supervisors.
 
-A Place to Express Milk: A private room (not a toilet stall or restroom) shall be available for employees to breastfeed or express milk. The room will be private and sanitary, and have an electrical outlet. If employees prefer, they may also breastfeed or express milk in other comfortable, private locations agreed upon in consultation with the employee’s supervisor.
+A Place to Express Milk: A private room shall be available for employees to breastfeed or express milk.  If employees prefer, they may also breastfeed or express milk in other comfortable, private locations agreed upon in consultation with the employee’s supervisor.
 
 # LEAVES OF ABSENCE
 
