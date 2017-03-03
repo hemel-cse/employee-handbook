@@ -39,20 +39,29 @@ Employee Handbook
 Issue Date: April 2016
 
 
-WELCOME
+# WELCOME
+Welcome to the  Saleae Employee Handbook. I hope you’re excited, because every word in here has been carefully crafted to be maximally interesting and educational. This document is intended to be an outline of key employee policies and practices, work standards, and benefits information.  It applies to all employees of Saleae (“the Company”).
 
-TL;DR;
+This is a long document.  We've pulled out the things we wish to highlit in the following section.
 
-
-PURPOSE OF THE EMPLOYEE HANDBOOK
+## TL;DR;
+Well, actually, you should read the entier document.  But here are some selected highlihts:
+
+- Vactaion: Full-time emplotees get 20 vacation days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scubadive off Thiland. 
+- Vacation part 2:  If you want, you can exchange 50% of your vacation for the equivilent extra salary.  If you only need weeks snorkaloing off Tahiti, that is. 
+
+
+
+
+## PURPOSE OF THE EMPLOYEE HANDBOOK
 This Employee Handbook is intended to help you become acquainted with some important policies and practices of Saleae, Inc. (hereinafter the “Company,” or “Saleae, Inc.”).  While no handbook can be an all-inclusive document covering every possible scenario, this Handbook provides significant guidance and information regarding how we approach certain matters of fundamental importance.  All employees are expected to read and sign the acknowledgement form at the end of this Handbook stating that you understand its contents.
+
 From time to time, the information included in our Employee Handbook may change.  Except for the policy of “at will,” which can only be modified in writing and signed by the Company’s CEO, the Company may change, rescind or add to any policies, benefits or practices from time to time at its sole discretion, with or without prior notice.  The Company will keep you informed of changes through suitable lines of communication.
 Nothing in this Employee Handbook, or any other document describing personnel policies or benefit plans, creates or is intended to create a contract, promise or representation of continued employment, or continued terms and conditions of employment, for any employee.
+
 This Handbook replaces all earlier handbooks and supersedes all prior inconsistent policies, practices, and procedures.  
 This Handbook is generally based upon federal laws and California state laws.  Some policies may not apply to employees based outside of California.  As to each employee, the Company will comply with the laws of the jurisdiction where the employee is located.  Please contact Human Resources with any question as to the applicability of any policy outside of California.
 This handbook replaces all earlier handbooks and supersedes all prior consistent policies, practices, and procedures. 
-
-
 
 # EMPLOYMENT PRACTICES & POLICIES
 
