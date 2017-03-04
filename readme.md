@@ -6,8 +6,6 @@ Spoiler alert: This is a long document.  We've pulled out the things we wish to 
 ## TL;DR;
 Well, actually, you should read the entier document.  But here are some selected highlihts:
 
-** Values **
-
 **Highlighted Benefits**
 
 - PTO: Full-time emplotees get 20 PTO days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scubadive off Thiland. 
@@ -24,16 +22,31 @@ Well, actually, you should read the entier document.  But here are some selected
 **Highlighted Policies**
 - Act in the company's best interest
 - Be a nice person
-- Remote work: generally, we think this is a suboptimal way to go, and so the default policy is 'no'. 
+- Remote work: The default policy is 'no'.  We think that teams generally work best when everyone is in the same room. 
 
-**Compensation**
 
-- Bonuses: we don't do bonuses.  Instead, we keep salaries 'top-of-market'
-**Performance Review & feedback**
+**Performance - Expectations and Measuremnt**
+- Each employee has one or more Roles
+- Each Role has a Role Scorecard, which includes:
+  - A list of all the outcomes required of the role
+  - A description of what means for each outcome to be demonstrataed 
+  - A guide for scoring each outcome
+- Each employee scores themselves and a number of other employees on these attrigutes on a regular and frequent basis
 
-**Raises**
+**Performance and Compensation**
+- When you are first hired, your salary is set in expectation on excellent performance in all your Roles
+- Our goal is to pay top of market for every Role, and to pay at all times the most we would be willing to pay if you were leave.   
+- Salary changes may only be made at the end of each quarter.
+- There are only two reasons to increase salary:
+  - A change in market conditions for the Roles you are in
+  - Crushing it so much that it makes sense to promote you to a new Role that is more valuable to the company.
+- All performance-based changes in salary must be accompanied by a change in assigned Role, and associated Role Scorecard.
+- Bonuses: we don't do bonuses.  Instead, we increase salary as described above.
 
 **Getting Fired**
+- Steve Jobs, Walt Disney, Mark Cuban, J.K. Rowling, Michael Bloomberg, and Thomas Edison were all fired at some point.
+- If it happens to you, it's okay.  As long as you didn't do anything super unethical, you'll get two months of severance with which to have a nice vacation and to find something even better.
+
 
 
 **Holidays**
