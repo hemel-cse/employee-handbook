@@ -1,62 +1,68 @@
-
-
-
-Benefits: Fixed # amount, employee choice of plan, with "recommended plans" for HMO and HSA+PPO; employee can pay additional to get better plans in the same "family" of plans.  Ideally all this is done via web interface on Zenefits, and is really easy to administer.
-
-Vacation: not unlimited; 4 weeks (20 days) of PTO, with option to sell up to 10 days back to the company;  PTO never resets, it rolls over.
-
-Relocation: 75% of costs up to some limit.
-
-Maternity leave:  Two options: 3 months @ 100% pay; Or: live in help paid for for X months, remote working 10hrs/week month 2, 20hours/week month 3; full time up to 3 additional months from home, all at 100%.
-
-Fun stuff:
-(all bonuses are approx. after tax)
--New baby bonus $2500
--Marriage Bonus: $2500
--Divorce Bonus: -$1000
--Vacation Bonus: $1000 (2/year max)
--E-car charging
--Model 3 payments of $400/month while loan/lease is outstanding and while still employed.
--$100 awesomeness gifts
-
-Remote work: remote office with 3+ employees within 3.5 hours by plane with fiber link and always-on video is fine; permanent off-site work from home: NO.  A-la-cart remote work - NO (use PTO).  IFF hardship, distraction-free-envorimnet, and prior really good success, then up to to days/week, perminant schedule, Tues/Wed only, always on video,is okay.  
-
-Passwords policy
-
-Security policy
-
-IT policy
-
-maternatiy leave section - seems overly coplicated and draconean.  May want to simplyfy the crap out of it. 
-
-****
-
-
-
-
-Employee Handbook
-
-Issue Date: April 2016
-
-
 # WELCOME
-Welcome to the  Saleae Employee Handbook. I hope you’re excited, because every word in here has been carefully crafted to be maximally interesting and educational. This document is intended to be an outline of key employee policies and practices, work standards, and benefits information.  It applies to all employees of Saleae (“the Company”).
+Welcome to the Saleae Employee Handbook. I hope you’re excited, because every word in here has been carefully crafted to be maximally interesting and educational. This document is intended to be an outline of key employee policies and practices, work standards, and benefits information.  It applies to all employees of Saleae, Inc. (“the Company”).
 
-This is a long document.  We've pulled out the things we wish to highlit in the following section.
+Spoiler alert: This is a long document.  We've pulled out the things we wish to highlight in the following section.
 
 ## TL;DR;
 Well, actually, you should read the entier document.  But here are some selected highlihts:
 
-- Vactaion: Full-time emplotees get 20 vacation days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scubadive off Thiland. 
-- Vacation part 2:  If you want, you can exchange 50% of your vacation for the equivilent extra salary.  If you only need weeks snorkaloing off Tahiti, that is. 
+** Values **
+
+**Highlighted Benefits**
+
+- PTO: Full-time emplotees get 20 PTO days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scubadive off Thiland. 
+- PRO part 2:  If you want, you can exchange 50% of your PTO for the equivilent extra salary.  If you only need two weeks snorkaloing off Tahiti, that is. 
+- Electric cars: we think electric cars are cool and offer free charging and up to $400/mo towards the loan/leaase payment of an electric car.
+- Awesomeness awards: if someone does something awesome, please give them an awesomeness award for $100 or $1000, depending on the level of awesomeness. We will add this amount to their nextpaycheck.
+- Food & Drink provided at work, weekly off-site lunches
+- Weekly laundry & dry cleaning service
+- On-premises gym for cardio, weighlifiting
+- Off-site gym reimbursment
+- Personal trainer reimbursment (up to $1000/month)
+- 6 months paid maternaty leave (work part time from home after 2nd month)
+
+**Highlighted Policies**
+- Act in the company's best interest
+- Be a nice person
+- Remote work: generally, we think this is a suboptimal way to go, and so the default policy is 'no'. 
+
+**Compensation**
+
+- Bonuses: we don't do bonuses.  Instead, we keep salaries 'top-of-market'
+**Performance Review & feedback**
+
+**Raises**
+
+**Getting Fired**
 
 
+**Holidays**
+- New Year’s Day
+- President's Day
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving Day
+- Day after Thanksgiving
+- Christmas Eve
+- Christmas Day
+- New Year’s Eve
+
+**Passwords**
+- When creating new internet accounts, always use unique, randomly generated passwords, and store them in Passpack. 
+- When sharing passwords with other employees, always use Passpack.
+- When sharing passwords with agencies, share a google doc with them.
+
+**Security**
+- Please keep all outside office doors locked at all times. 
+- Never let anyone you don't know into the building. 
 
 
 ## PURPOSE OF THE EMPLOYEE HANDBOOK
 This Employee Handbook is intended to help you become acquainted with some important policies and practices of Saleae, Inc. (hereinafter the “Company,” or “Saleae, Inc.”).  While no handbook can be an all-inclusive document covering every possible scenario, this Handbook provides significant guidance and information regarding how we approach certain matters of fundamental importance.  All employees are expected to read and sign the acknowledgement form at the end of this Handbook stating that you understand its contents.
 
 From time to time, the information included in our Employee Handbook may change.  Except for the policy of “at will,” which can only be modified in writing and signed by the Company’s CEO, the Company may change, rescind or add to any policies, benefits or practices from time to time at its sole discretion, with or without prior notice.  The Company will keep you informed of changes through suitable lines of communication.
+
 Nothing in this Employee Handbook, or any other document describing personnel policies or benefit plans, creates or is intended to create a contract, promise or representation of continued employment, or continued terms and conditions of employment, for any employee.
 
 This Handbook replaces all earlier handbooks and supersedes all prior inconsistent policies, practices, and procedures.  
@@ -71,15 +77,19 @@ Policies set forth in this handbook are not intended to create a contract, nor a
 
 ## Equal Employment Opportunity
 It is Saleae, Inc.’s policy to provide equal employment opportunity for all applicants and employees. The Company does not unlawfully discriminate on the basis of race, religion, religious creed (includes all aspects of religious belief, observance, and practice, including religious dress and grooming practices), color, national origin (including language use restrictions), ancestry, physical and mental disability, medical condition, genetic information, denial of family and medical care leave, marital status, sex (which includes pregnancy, childbirth, breastfeeding and medical conditions related to pregnancy), gender, gender identity, gender expression, sex stereo type, transgender, age (40 and over), military and veteran status, sexual orientation, pregnancy, registered partner status, and any other local, state, or federal protected basis.  When necessary, the Company also makes reasonable accommodations for disabled employees and for pregnant employees who request an accommodation, with the advice of their health care providers, for pregnancy, childbirth, or related medical conditions.
+
 The Company prohibits sexual harassment and the harassment of any individual in any of the areas listed above. For information about the types of conduct that constitute impermissible harassment and the Company’s internal procedures for addressing complaints of harassment, please refer to the Company’s Sexual & Other Unlawful Harassment policy in Section V of this handbook.
+
 This policy applies to all areas of employment including recruitment, hiring, training, promotion, compensation, benefits, transfer, disciplinary action, and social and recreational programs. It is the responsibility of every manager and employee to conscientiously follow this policy. Any employee having questions regarding this policy should discuss them with Human Resources.
 
 ## Business Ethics and Conduct
 Saleae, Inc. will comply with all applicable laws and regulations and expects its directors, officers and employees to conduct business in accordance with the letter, spirit, and intent of all relevant laws and to refrain from any illegal, dishonest, or unethical conduct.
+
 Compliance with this policy of business ethics and conduct is the responsibility of every Saleae, Inc. employee.  Disregarding or failing to comply with this standard of business ethics and conduct could lead to disciplinary action, up to and including possible termination of employment.
 
 ## Personal Relationships in the Workplace
 Relatives of present employees may be hired by the Company only if: (1) the individuals concerned will not work in a direct managerial relationship with one another; and (2) the employment will not pose difficulties for supervision, security, safety, or morale.  
+
 "Relatives" are defined as spouses, domestic partners, children, sisters, brothers, mothers, fathers, cousins, nieces, nephews, uncles, aunts, grandparents, grandchildren, and persons related by marriage.  
 
 Present employees who marry or become domestic partners or who become related by marriage will be permitted to continue employment with the Company only if they do not work in a direct managerial relationship with one another, or otherwise pose difficulties for supervision, security, safety, or morale.  If employees who marry or who become related by marriage do work in a direct managerial relationship with one another, the Company will attempt to reassign one of the employees to another position for which he or she is qualified, if such a position is available.  If no such position is available, then one of the employees will be required to leave the Company. The decision as to which employee leaves will be left solely to the employees.  In the event that no alternative position is available and neither employee voluntarily leaves the Company, the Company will determine in its discretion which employee to terminate based on legitimate business needs.
@@ -171,31 +181,31 @@ The Company may, in its discretion, require employees to work on scheduled holid
 
 In addition to the recognized holidays listed above, eligible employees who started on or before June 30 of each year will receive two days that the Company provides for professional development. Eligible employees who start on or after July 1 during a calendar year, will be entitled to one day for professional development.  Professional Development Days must be scheduled in advance, with the prior approval of the employee’s manager, and verification, such as a syllabus or certificate.  Unused Professional Development Days will not be carried over at year-end.
 
-## Vacation
-All regular full-time employees and regular part-time employees regularly scheduled to work at least thirty (30) hours per week are eligible for vacation benefits.  Temporary employees and employees who are regularly scheduled to work fewer than thirty (30) hours per week are not eligible for vacation benefits.
+## Paid Time Off (PTO)
+All regular full-time employees and regular part-time employees regularly scheduled to work at least thirty (30) hours per week are eligible for PTO benefits.  Temporary employees and employees who are regularly scheduled to work fewer than thirty (30) hours per week are not eligible for PTO benefits.
 
-Eligible employees accrue vacation on a monthly basis starting on the date of hire, and they can request use of vacation after it has been accrued.  **Full-time employees accrue up to twenty (20) days of vacation per year.**  Eligible part-time employees accrue vacation on a pro-rated basis based on the number of their regularly scheduled hours of work.   
+Eligible employees accrue PTO on a monthly basis starting on the date of hire, and they can request use of PTO after it has been accrued.  **Full-time employees accrue up to twenty (20) days of PTO per year.**  Eligible part-time employees accrue PTO on a pro-rated basis based on the number of their regularly scheduled hours of work.   
 
-**There is no "cap" on the amount of unused vacation that may be accrued.**
+**There is no "cap" on the amount of unused PTO that may be accrued.**
 
-**Employees may trade in unused vacation for the equivilent wage, up to a limit of 50% of the total accued vacation.**
+**Employees may trade in unused PTO for the equivilent wage, up to a limit of 50% of the total accued PTO.**
 
-No vacation accrues during an unpaid leave of absence or while on disability salary continuation. Vacation accruals recommence when the employee returns to work.
+No PTO accrues during an unpaid leave of absence or while on disability salary continuation. PTO accruals recommence when the employee returns to work.
 
-To schedule planned vacation, employees must request advance approval from their manager using the PTO Request form available on the Zenefits website (www.zenefits.com). Saleae, Inc. will make reasonable efforts to allow employees to take PTO for the time requested, but such requests may be denied at the Company’s sole discretion.  
+To schedule planned PTO, employees must request advance approval from their manager using the PTO Request form available on the Zenefits website (www.zenefits.com). Saleae, Inc. will make reasonable efforts to allow employees to take PTO for the time requested, but such requests may be denied at the Company’s sole discretion.  
 
-Vacation is paid at the employee’s current base pay rate at the time the vacation is taken.  It does not include overtime or any special forms of compensation such as incentives, commissions, bonuses, or shift differentials.  Vacation hours taken will not be counted as hours worked for the purpose of determining overtime.
+PTO is paid at the employee’s current base pay rate at the time the PTO is taken.  It does not include overtime or any special forms of compensation such as incentives, commissions, bonuses, or shift differentials.  PTO hours taken will not be counted as hours worked for the purpose of determining overtime.
 
-Vacation may be used to supplement any payments that an employee is eligible to receive from state disability insurance or workers’ compensation while the employee is on leave for illness or injury.  Any vacation the employee elects to use will be considered with any such other compensation or benefits for which the employee may be eligible, so that the employee does not receive more than one hundred percent (100%) of his or her regular pay.
+PTO may be used to supplement any payments that an employee is eligible to receive from state disability insurance or workers’ compensation while the employee is on leave for illness or injury.  Any PTO the employee elects to use will be considered with any such other compensation or benefits for which the employee may be eligible, so that the employee does not receive more than one hundred percent (100%) of his or her regular pay.
 
-Upon termination of employment, employees will be paid for any accrued, unused vacation at the employee's base rate of pay at the time of his or her termination.
+Upon termination of employment, employees will be paid for any accrued, unused PTO at the employee's base rate of pay at the time of his or her termination.
 
 ## Sick Leave
 Employees will accrue one hour of sick time for every 30 hours worked (including overtime hours). Employees who are exempt - administrative, executive, or professional employees - accrue sick time based on the employee's normal work week or a 40-hour work week, whichever is less.  Employees may begin using any accrued sick leave on their 90th day of employment, provided they have worked in the state of California for 30 or more days.
 
 Sick leave will continue to accrue until you reach a cap of 72 hours (or nine days) in each year of employment.  The sick leave will be "compensated at the same wage as the employee normally earns during regular work hours.”    
 
-Similar to California's requirements related to vacation accrual, the company will allow employees to carry over all accrued paid sick days to the following year of employment. Paid sick time will continue to accrue until it reaches a maximum cap of 72 hours (or nine days) and may carry over to the next year.  
+Similar to California's requirements related to PTO accrual, the company will allow employees to carry over all accrued paid sick days to the following year of employment. Paid sick time will continue to accrue until it reaches a maximum cap of 72 hours (or nine days) and may carry over to the next year.  
 
 ### Permitted Uses
 Employees are allowed to use the 72 hours of paid sick time per year on the employee's oral or written request for the following reasons:
