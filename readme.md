@@ -8,46 +8,21 @@ Well, actually, you should read the entier document.  But here are some selected
 
 **Highlighted Benefits**
 
-- PTO: Full-time employees get 20 PTO days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scuba-dive off Thailand.
-- PRO part 2:  If you want, you can exchange 50% of your PTO for the equivalent extra salary.  If you only need two weeks snorkeling off Tahiti, that is.
-- Electric cars: we think electric cars are cool and offer free charging and up to $400/mo towards the loan/lease payment of an electric car.
+- PTO: Full-time employees get 20 PTO (paid time off) days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scuba-dive off Thailand.
+- PTO part 2:  If you want, you can exchange 50% of your PTO for the equivalent extra salary.  If you only need two weeks snorkeling off Tahiti, that is.
+- Electric cars: we think electric cars are cool and we offer free charging and up to $400/mo towards the loan/lease payment of an electric car.
 - Awesomeness awards: if someone does something awesome, please give them an awesomeness award for $100 or $1000, depending on the level of awesomeness. We will add this amount to their next paycheck.
 - Food & Drink provided at work, weekly off-site lunches
 - Weekly laundry & dry cleaning service
 - On-premises gym for cardio, weightlifting
 - Off-site gym reimbursement
 - Personal trainer reimbursement (up to $1000/month)
-- 6 months paid maternity leave (work part time from home after 2nd month)
+- 6 months paid maternity leave/part-time (work part time from home after 2nd month)
 
 **Highlighted Policies**
 - Act in the company's best interest
 - Be a nice person
 - Remote work: The default policy is 'no'.  We think that teams generally work best when everyone is in the same room.
-
-
-**Performance - Expectations and Measurement**
-- Each employee has one or more Roles
-- Each Role has a Role Scorecard, which includes:
-  - A list of all the outcomes required of the role
-  - A description of what means for each outcome to be demonstrated
-  - A guide for scoring each outcome
-- Each employee scores themselves and a number of other employees on these attributes on a regular and frequent basis
-
-**Performance and Compensation**
-- When you are first hired, your salary is set in expectation on excellent performance in all your Roles
-- Our goal is to pay top of market for every Role, and to pay at all times the most we would be willing to pay if you were leave.   
-- Salary changes may only be made at the end of each quarter.
-- There are only two reasons to increase salary:
-  - A change in market conditions for the Roles you are in
-  - Crushing it so much that it makes sense to promote you to a new Role that is more valuable to the company.
-- All performance-based changes in salary must be accompanied by a change in assigned Role, and associated Role Scorecard.
-- Bonuses: we don't do bonuses.  Instead, we increase salary as described above.
-
-**Getting Fired**
-- Steve Jobs, Walt Disney, Mark Cuban, J.K. Rowling, Michael Bloomberg, and Thomas Edison were all fired at some point.
-- If it happens to you, it's okay.  As long as you didn't do anything super unethical, you'll get two months of severance with which to have a nice vacation and to find something even better.
-
-
 
 **Holidays**
 - New Year’s Day
@@ -69,7 +44,6 @@ Well, actually, you should read the entier document.  But here are some selected
 **Security**
 - Please keep all outside office doors locked at all times.
 - Never let anyone you don't know into the building.
-
 
 ## PURPOSE OF THE EMPLOYEE HANDBOOK
 This Employee Handbook is intended to help you become acquainted with some important policies and practices of Saleae, Inc. (hereinafter the “Company,” or “Saleae, Inc.”).  While no handbook can be an all-inclusive document covering every possible scenario, this Handbook provides significant guidance and information regarding how we approach certain matters of fundamental importance.  All employees are expected to read and sign the acknowledgement form at the end of this Handbook stating that you understand its contents.
