@@ -4,34 +4,34 @@ Welcome to the Saleae Employee Handbook. I hope you’re excited, because every 
 Spoiler alert: This is a long document.  We've pulled out the things we wish to highlight in the following section.
 
 ## TL;DR;
-Well, actually, you should read the entier document.  But here are some selected highlihts:
+Well, actually, you should read the entier document.  But here are some selected highlights:
 
 **Highlighted Benefits**
 
-- PTO: Full-time emplotees get 20 PTO days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scubadive off Thiland. 
-- PRO part 2:  If you want, you can exchange 50% of your PTO for the equivilent extra salary.  If you only need two weeks snorkaloing off Tahiti, that is. 
-- Electric cars: we think electric cars are cool and offer free charging and up to $400/mo towards the loan/leaase payment of an electric car.
-- Awesomeness awards: if someone does something awesome, please give them an awesomeness award for $100 or $1000, depending on the level of awesomeness. We will add this amount to their nextpaycheck.
+- PTO: Full-time employees get 20 PTO days per year.  That's 4 weeks per year to sail the Caribbean, kite surf of Hawaii, and scuba-dive off Thailand.
+- PRO part 2:  If you want, you can exchange 50% of your PTO for the equivalent extra salary.  If you only need two weeks snorkeling off Tahiti, that is.
+- Electric cars: we think electric cars are cool and offer free charging and up to $400/mo towards the loan/lease payment of an electric car.
+- Awesomeness awards: if someone does something awesome, please give them an awesomeness award for $100 or $1000, depending on the level of awesomeness. We will add this amount to their next paycheck.
 - Food & Drink provided at work, weekly off-site lunches
 - Weekly laundry & dry cleaning service
-- On-premises gym for cardio, weighlifiting
-- Off-site gym reimbursment
-- Personal trainer reimbursment (up to $1000/month)
-- 6 months paid maternaty leave (work part time from home after 2nd month)
+- On-premises gym for cardio, weightlifting
+- Off-site gym reimbursement
+- Personal trainer reimbursement (up to $1000/month)
+- 6 months paid maternity leave (work part time from home after 2nd month)
 
 **Highlighted Policies**
 - Act in the company's best interest
 - Be a nice person
-- Remote work: The default policy is 'no'.  We think that teams generally work best when everyone is in the same room. 
+- Remote work: The default policy is 'no'.  We think that teams generally work best when everyone is in the same room.
 
 
-**Performance - Expectations and Measuremnt**
+**Performance - Expectations and Measurement**
 - Each employee has one or more Roles
 - Each Role has a Role Scorecard, which includes:
   - A list of all the outcomes required of the role
-  - A description of what means for each outcome to be demonstrataed 
+  - A description of what means for each outcome to be demonstrated
   - A guide for scoring each outcome
-- Each employee scores themselves and a number of other employees on these attrigutes on a regular and frequent basis
+- Each employee scores themselves and a number of other employees on these attributes on a regular and frequent basis
 
 **Performance and Compensation**
 - When you are first hired, your salary is set in expectation on excellent performance in all your Roles
@@ -62,13 +62,13 @@ Well, actually, you should read the entier document.  But here are some selected
 - New Year’s Eve
 
 **Passwords**
-- When creating new internet accounts, always use unique, randomly generated passwords, and store them in Passpack. 
+- When creating new internet accounts, always use unique, randomly generated passwords, and store them in Passpack.
 - When sharing passwords with other employees, always use Passpack.
 - When sharing passwords with agencies, share a google doc with them.
 
 **Security**
-- Please keep all outside office doors locked at all times. 
-- Never let anyone you don't know into the building. 
+- Please keep all outside office doors locked at all times.
+- Never let anyone you don't know into the building.
 
 
 ## PURPOSE OF THE EMPLOYEE HANDBOOK
@@ -197,11 +197,11 @@ In addition to the recognized holidays listed above, eligible employees who star
 ## Paid Time Off (PTO)
 All regular full-time employees and regular part-time employees regularly scheduled to work at least thirty (30) hours per week are eligible for PTO benefits.  Temporary employees and employees who are regularly scheduled to work fewer than thirty (30) hours per week are not eligible for PTO benefits.
 
-Eligible employees accrue PTO on a monthly basis starting on the date of hire, and they can request use of PTO after it has been accrued.  **Full-time employees accrue up to twenty (20) days of PTO per year.**  Eligible part-time employees accrue PTO on a pro-rated basis based on the number of their regularly scheduled hours of work.   
+Eligible employees accrue PTO on a monthly basis starting on the date of hire, and they can request use of PTO after it has been accrued.  **Full-time employees accrue up to twenty (20) days of PTO per year.**  Eligible part-time employees accrue PTO on a pro-rated basis based on the number of their regularly scheduled hours of work.  
 
 **There is no "cap" on the amount of unused PTO that may be accrued.**
 
-**Employees may trade in unused PTO for the equivilent wage, up to a limit of 50% of the total accued PTO.**
+**Employees may trade in unused PTO for the equivalent wage, up to a limit of 50% of the total accrued PTO.**
 
 No PTO accrues during an unpaid leave of absence or while on disability salary continuation. PTO accruals recommence when the employee returns to work.
 
@@ -238,7 +238,7 @@ As per California law, the Company will not cash out employee's accrued, but unu
 We will provide sick leave upon an employee's oral request. However, if the need for sick time is foreseeable, you must provide a reasonable advance notification. If the sick time is unforeseeable, an employee must provide the Company with notice of the need to use sick time as soon as practicable. At this time, the Company will not be asking for supporting documentation unless sick leave is in association with an extended leave of absence or a work injury.  However, we reserve the right to revise this policy as business needs and regulations change.
 
 ## Overtime
-From time to time, it may be necessary for employees to perform overtime work.  The Company provides compensation for all overtime hours worked by non-exempt employees in accordance with federal and state law.  Non-exempt employees must accurately record all time worked, including those hours worked beyond their normal schedule.  Employees will be notified of their eligibility for overtime pay at their time of hire, at the time their job duties and position changes or otherwise as appropriate. 
+From time to time, it may be necessary for employees to perform overtime work.  The Company provides compensation for all overtime hours worked by non-exempt employees in accordance with federal and state law.  Non-exempt employees must accurately record all time worked, including those hours worked beyond their normal schedule.  Employees will be notified of their eligibility for overtime pay at their time of hire, at the time their job duties and position changes or otherwise as appropriate.
 
 All overtime by non-exempt employees must be approved in advance by their manager. Unauthorized working of overtime may be subject to discipline up to and including termination of employment. When it is necessary to work overtime, employees are expected to cooperate as a condition of their employment.
 
@@ -291,7 +291,7 @@ At this time, Saleae, Inc. does not provide short-term or long-term disability p
 However, state sponsored programs provide for temporary disability benefits for employees unable to work because of disability due to a non-occupational accident or illness. These programs are financed through deductions from each employee's taxable earnings and through employer contributions as established by law in each particular state. Benefits are not automatic. Employees must complete the required form to receive benefits.
 
 ### 401(k) Savings Plan
-Saleae, Inc. has established a 401(k) savings plan (traditional and Roth) for all regular full-time and part-time employees.  To be eligible to participate in the 401(k) savings plan, employees must be employed by Saleae, Inc. for three (3) months and be twenty-one (21) years of age or older.  Once the third month of employment at Saleae, Inc. is complete, employees may elect to join the 401(k) savings plan at any time.  The 401(k) savings plan allows employees to elect how much of their salary they want to contribute, up to the IRS maximum allowed amount, and direct the investment of their plan account, so they can tailor their own retirement package to meet their individual needs. 
+Saleae, Inc. has established a 401(k) savings plan (traditional and Roth) for all regular full-time and part-time employees.  To be eligible to participate in the 401(k) savings plan, employees must be employed by Saleae, Inc. for three (3) months and be twenty-one (21) years of age or older.  Once the third month of employment at Saleae, Inc. is complete, employees may elect to join the 401(k) savings plan at any time.  The 401(k) savings plan allows employees to elect how much of their salary they want to contribute, up to the IRS maximum allowed amount, and direct the investment of their plan account, so they can tailor their own retirement package to meet their individual needs.
 
 At this time, Saleae, Inc. does not match employee 401K contributions.
 
@@ -323,17 +323,17 @@ All visitors should enter Saleae, Inc. at the reception area.  Authorized visito
 Saleae, Inc. provides its employees with access to business systems (including but not limited to telephones, computers, software, networks, voicemail, e-mail, Company intranet, external electronic bulletin boards, wire services, on-line services, the Internet and the World Wide Web).  These systems are for use in carrying out the Company’s business.  Although Saleae, Inc. does not prohibit the use of the Company’s electronic, e-mail and voicemail systems for personal use, employees must keep in mind that the Company’s resources are being used for this service.  Employees need to demonstrate a sense of responsibility and may not abuse the privilege.  The following guidelines govern the proper use of those electronic systems and services, and set forth the Company’s policies with regard to access to, use and disclosure of data and electronic mail or voice messages sent or received.  
 
 ### E-mail and Voicemail Guidelines
-Users should be aware of the following: 
+Users should be aware of the following:
 
-(a) the use of the e-mail and voicemail systems is for the conduct of business and Company -sanctioned and supported programs and activities.  Use of these systems for personal activities should be kept to a minimum; 
+(a) the use of the e-mail and voicemail systems is for the conduct of business and Company -sanctioned and supported programs and activities.  Use of these systems for personal activities should be kept to a minimum;
 
-(b) common sense, courtesy and professionalism should be employed when using e-mail.  Users should not send (or forward) anything that others might find offensive.  Among material considered offensive are any messages that contain sexual implications or unwelcome personal invitations, racial slurs, gender-specific comments, or any other comments that offensively address someone’s age, sexual orientation, religious or political beliefs, national origin, disability, or any other protected characteristic; 
+(b) common sense, courtesy and professionalism should be employed when using e-mail.  Users should not send (or forward) anything that others might find offensive.  Among material considered offensive are any messages that contain sexual implications or unwelcome personal invitations, racial slurs, gender-specific comments, or any other comments that offensively address someone’s age, sexual orientation, religious or political beliefs, national origin, disability, or any other protected characteristic;
 
-(c) because of its public nature, e-mail may be inappropriate for many types of confidential documents unless encryption technology is used.  There are significant confidentiality problems if material communicated by e-mail is copied, re-routed, diverted or wrongly addressed.  Also, commercially sensitive and “inside” information can create significant problems if e-mailed without additional protection. Employees may not send or receive copyrighted materials, trade secret, confidential or proprietary information, or similar materials outside of the Company without prior authorization from their manager.  Employees must take available measures to protect confidentiality; 
+(c) because of its public nature, e-mail may be inappropriate for many types of confidential documents unless encryption technology is used.  There are significant confidentiality problems if material communicated by e-mail is copied, re-routed, diverted or wrongly addressed.  Also, commercially sensitive and “inside” information can create significant problems if e-mailed without additional protection. Employees may not send or receive copyrighted materials, trade secret, confidential or proprietary information, or similar materials outside of the Company without prior authorization from their manager.  Employees must take available measures to protect confidentiality;
 
-(d) anyone obtaining electronic access to other companies’ or individuals’ materials must respect all copyrights and may not copy, retrieve, modify or forward copyrighted materials except as permitted by the copyright owner or a single copy for reference use only; 
+(d) anyone obtaining electronic access to other companies’ or individuals’ materials must respect all copyrights and may not copy, retrieve, modify or forward copyrighted materials except as permitted by the copyright owner or a single copy for reference use only;
 
-(e) any messages or information sent by an employee to one or more individuals via an electronic network (e.g. bulletin board, on-line service, or Internet) may constitute statements identifiable and attributable to the Company, and should be treated as such.  While some users include personal “disclaimers” in electronic messages, it should be noted that there would still be a connection with the Company, and the statement might still be legally attributed to the Saleae, Inc.; 
+(e) any messages or information sent by an employee to one or more individuals via an electronic network (e.g. bulletin board, on-line service, or Internet) may constitute statements identifiable and attributable to the Company, and should be treated as such.  While some users include personal “disclaimers” in electronic messages, it should be noted that there would still be a connection with the Company, and the statement might still be legally attributed to the Saleae, Inc.;
 
 (f) employees may not use the e-mail or voicemail systems to solicit or persuade participation in commercial ventures, religious or political causes, outside organizations, or other non-job related activities.
 
@@ -354,7 +354,7 @@ In addition, all employees must comply with the following guidelines regarding u
 - Users must comply with all software licenses, copyrights, and all other state and federal laws governing intellectual property.
 - Fraudulent, harassing, embarrassing, indecent, profane, obscene, intimidating, or other such material may not be displayed on or stored in the Company’s computers.  Users encountering or receiving such material should immediately report the incident to their manager.
 -	Saleae, Inc. configures, installs and maintains the computer systems it provides to employees.  Users may not modify or attempt to modify the computer systems (including, without limitation, installing, deleting or modifying hardware or software on individual computers or the network) without first receiving explicit authorization from Company management.
--	Users are responsible for safeguarding their passwords for the system. 
+-	Users are responsible for safeguarding their passwords for the system.
 -	A user’s ability to connect to other systems through the network does not imply a right to connect to those systems unless specifically authorized by the operators of those systems.
 
 ### Guidelines for Responsible Internet Use  	
@@ -443,7 +443,7 @@ The Company will provide employees time off to serve, as required by law, on a j
 
 Employees will be granted a paid leave of absence of up to ten (10) business days per year for the purpose of fulfilling jury duty. Any jury duty that extends beyond 10 business days per year will be unpaid.  However, exempt employees who work any portion of a workweek in which they also serve on jury duty will receive their full salary for that workweek.  Employees may elect to substitute accrued PTO during any unpaid leave due to jury duty.
 
-Employees are required to provide reasonable advance notice of the need for leave due to jury duty. Employees also are expected to report to work each day or portion of a day they are not performing jury/witness duty. The Company reserves the right to request that the employee furnish written verification from the court as proof that the employee served jury duty. 
+Employees are required to provide reasonable advance notice of the need for leave due to jury duty. Employees also are expected to report to work each day or portion of a day they are not performing jury/witness duty. The Company reserves the right to request that the employee furnish written verification from the court as proof that the employee served jury duty.
 
 ## Witness Leave
 The Company will provide employees with time off to appear in court or other judicial proceedings as a witness to comply with a valid subpoena or other court order. Time off for these purposes will be unpaid. However, employees may elect to substitute accrued PTO during any unpaid leave due to witness leave.
